@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/domain/domain.iml" filepath="$PROJECT_DIR$/.idea/modules/domain/domain.iml" group="domain" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/domain/domain_main.iml" filepath="$PROJECT_DIR$/.idea/modules/domain/domain_main.iml" group="domain" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/domain/domain_test.iml" filepath="$PROJECT_DIR$/.idea/modules/domain/domain_test.iml" group="domain" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web/web.iml" filepath="$PROJECT_DIR$/.idea/modules/web/web.iml" group="web" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web/web_main.iml" filepath="$PROJECT_DIR$/.idea/modules/web/web_main.iml" group="web" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web/web_test.iml" filepath="$PROJECT_DIR$/.idea/modules/web/web_test.iml" group="web" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/weibo/weibo.iml" filepath="$PROJECT_DIR$/.idea/modules/weibo/weibo.iml" group="weibo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/weibo/weibo_main.iml" filepath="$PROJECT_DIR$/.idea/modules/weibo/weibo_main.iml" group="weibo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/weibo/weibo_test.iml" filepath="$PROJECT_DIR$/.idea/modules/weibo/weibo_test.iml" group="weibo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/yunland_website_api.iml" filepath="$PROJECT_DIR$/.idea/modules/yunland_website_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/yunland_website_api_main.iml" filepath="$PROJECT_DIR$/.idea/modules/yunland_website_api_main.iml" group="yunland_website_api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/yunland_website_api_test.iml" filepath="$PROJECT_DIR$/.idea/modules/yunland_website_api_test.iml" group="yunland_website_api" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="domain_main" target="1.7" />
+      <module name="domain_test" target="1.7" />
+      <module name="web_main" target="1.7" />
+      <module name="web_test" target="1.7" />
+      <module name="weibo_main" target="1.7" />
+      <module name="weibo_test" target="1.7" />
+      <module name="yunland_website_api_main" target="1.8" />
+      <module name="yunland_website_api_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
